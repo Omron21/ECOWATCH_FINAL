@@ -1,0 +1,16 @@
+# Ignore temporary files and large data artifacts
+*.pyc
+__pycache__/
+*.npy
+*.wav
+*.h5
+*.csv
+
+# Ignore all large data folders (even if not present now, for safety)
+data/
+snippets/
+spectrograms/
+
+# Ignore the environment folder
+/venv/
+/env/

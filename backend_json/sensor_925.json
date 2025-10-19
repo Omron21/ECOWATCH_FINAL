@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-925",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 94.63304265890164,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000247,
+  "RMS_Ratio": 2.06,
+  "Power_Ratio": 0.34
+}

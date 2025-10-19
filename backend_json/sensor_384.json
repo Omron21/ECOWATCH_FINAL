@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-384",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 89.66341831076997,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000222,
+  "RMS_Ratio": 0.4,
+  "Power_Ratio": 0.08
+}

@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-264",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 47.80475627680826,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000159,
+  "RMS_Ratio": 1.0,
+  "Power_Ratio": 0.08
+}

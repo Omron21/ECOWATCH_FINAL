@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-650",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 56.440947466892815,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.00042,
+  "RMS_Ratio": 1.28,
+  "Power_Ratio": 0.15
+}

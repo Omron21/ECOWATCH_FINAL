@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-607",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 80.59162874043884,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000203,
+  "RMS_Ratio": 1.68,
+  "Power_Ratio": 1.22
+}

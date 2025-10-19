@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-976",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 53.59212947087425,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.009097,
+  "RMS_Ratio": 0.07,
+  "Power_Ratio": 0.46
+}

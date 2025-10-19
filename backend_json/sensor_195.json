@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-195",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 97.5935789723635,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 9.4e-05,
+  "RMS_Ratio": 2.17,
+  "Power_Ratio": 0.28
+}

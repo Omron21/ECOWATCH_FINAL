@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-544",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 96.88746763684223,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.001051,
+  "RMS_Ratio": 2.12,
+  "Power_Ratio": 0.17
+}

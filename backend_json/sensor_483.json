@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-483",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 97.75684264513133,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 0.000168,
+  "RMS_Ratio": 0.86,
+  "Power_Ratio": 0.07
+}

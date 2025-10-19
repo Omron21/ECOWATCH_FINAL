@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-561",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 51.93790918271383,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 2.5e-05,
+  "RMS_Ratio": 1.16,
+  "Power_Ratio": 0.25
+}

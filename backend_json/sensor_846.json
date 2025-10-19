@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-846",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 81.13699327851805,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 6.4e-05,
+  "RMS_Ratio": 0.8,
+  "Power_Ratio": 0.06
+}

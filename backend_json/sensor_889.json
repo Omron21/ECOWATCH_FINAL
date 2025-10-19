@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-889",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 58.96326606178495,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 3.8e-05,
+  "RMS_Ratio": 0.67,
+  "Power_Ratio": 0.13
+}

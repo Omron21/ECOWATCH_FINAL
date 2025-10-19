@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-320",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 57.257109864731746,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 5.5e-05,
+  "RMS_Ratio": 1.64,
+  "Power_Ratio": 0.14
+}

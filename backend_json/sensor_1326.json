@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-1326",
+  "timestamp": "2025-10-19T20:55:01",
+  "activity": "idle",
+  "battery": 91.50224112127447,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000106,
+  "RMS_Ratio": 0.85,
+  "Power_Ratio": 0.15
+}

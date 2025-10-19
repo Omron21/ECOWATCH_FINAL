@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-687",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 49.758557856196745,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000226,
+  "RMS_Ratio": 1.39,
+  "Power_Ratio": 0.21
+}

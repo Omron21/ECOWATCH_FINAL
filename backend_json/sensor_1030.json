@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-1030",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 81.51969256917417,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 8.7e-05,
+  "RMS_Ratio": 3.16,
+  "Power_Ratio": 0.07
+}

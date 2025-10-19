@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-214",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 60.29355011848814,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000433,
+  "RMS_Ratio": 0.29,
+  "Power_Ratio": 0.09
+}

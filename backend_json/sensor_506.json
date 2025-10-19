@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-506",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 90.42885013671274,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 7.3e-05,
+  "RMS_Ratio": 2.05,
+  "Power_Ratio": 0.22
+}

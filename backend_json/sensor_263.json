@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-263",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 41.60203840257399,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 4e-05,
+  "RMS_Ratio": 1.61,
+  "Power_Ratio": 0.14
+}

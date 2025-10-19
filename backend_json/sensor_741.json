@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-741",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 53.39755477230776,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 2.6e-05,
+  "RMS_Ratio": 1.2,
+  "Power_Ratio": 0.34
+}

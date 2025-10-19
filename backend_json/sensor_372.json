@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-372",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 98.14943048516157,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.005563,
+  "RMS_Ratio": 0.19,
+  "Power_Ratio": 0.24
+}

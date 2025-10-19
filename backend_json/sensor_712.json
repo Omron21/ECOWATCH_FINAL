@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-712",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 72.2450024835795,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000155,
+  "RMS_Ratio": 0.94,
+  "Power_Ratio": 0.08
+}

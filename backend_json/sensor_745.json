@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-745",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 77.98031037725528,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 3e-05,
+  "RMS_Ratio": 1.07,
+  "Power_Ratio": 0.18
+}

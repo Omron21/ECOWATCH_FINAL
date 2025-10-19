@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-840",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 99.4252494991574,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000396,
+  "RMS_Ratio": 5.17,
+  "Power_Ratio": 0.25
+}

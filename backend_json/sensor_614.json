@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-614",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 64.38108924497269,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 6.4e-05,
+  "RMS_Ratio": 1.52,
+  "Power_Ratio": 0.1
+}

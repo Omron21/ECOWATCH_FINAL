@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-289",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 70.32103616854621,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000338,
+  "RMS_Ratio": 7.08,
+  "Power_Ratio": 0.28
+}

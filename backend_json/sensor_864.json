@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-864",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 92.93397333939771,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000377,
+  "RMS_Ratio": 5.77,
+  "Power_Ratio": 0.31
+}

@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-362",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 53.06966078296878,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 5.4e-05,
+  "RMS_Ratio": 1.18,
+  "Power_Ratio": 0.08
+}

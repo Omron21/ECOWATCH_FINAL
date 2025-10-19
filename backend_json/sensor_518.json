@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-518",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 91.16867326062858,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000207,
+  "RMS_Ratio": 0.94,
+  "Power_Ratio": 0.16
+}

@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-1091",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 53.617244940361346,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000155,
+  "RMS_Ratio": 0.99,
+  "Power_Ratio": 0.11
+}

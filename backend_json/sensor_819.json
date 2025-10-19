@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-819",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 58.30114884526049,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.002234,
+  "RMS_Ratio": 0.14,
+  "Power_Ratio": 0.21
+}

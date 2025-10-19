@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-474",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 81.89804073713236,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 7.7e-05,
+  "RMS_Ratio": 0.64,
+  "Power_Ratio": 0.33
+}

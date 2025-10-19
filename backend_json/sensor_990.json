@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-990",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 74.76116087384068,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000202,
+  "RMS_Ratio": 1.86,
+  "Power_Ratio": 0.21
+}

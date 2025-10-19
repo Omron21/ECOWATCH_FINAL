@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-437",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 56.79359875465904,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 1.2e-05,
+  "RMS_Ratio": 1.14,
+  "Power_Ratio": 0.26
+}

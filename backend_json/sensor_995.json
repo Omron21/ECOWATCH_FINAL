@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-995",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 58.983687849784545,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000261,
+  "RMS_Ratio": 0.93,
+  "Power_Ratio": 0.1
+}

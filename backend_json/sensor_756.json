@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-756",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 99.63369340611723,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 0.000191,
+  "RMS_Ratio": 1.1,
+  "Power_Ratio": 0.07
+}

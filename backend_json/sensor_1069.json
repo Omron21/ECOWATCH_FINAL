@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-1069",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "excavation",
+  "battery": 89.33497791261411,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 0.000145,
+  "RMS_Ratio": 1.05,
+  "Power_Ratio": 0.21
+}

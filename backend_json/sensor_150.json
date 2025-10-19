@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-150",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 93.19724117179739,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 1.4e-05,
+  "RMS_Ratio": 1.19,
+  "Power_Ratio": 0.36
+}

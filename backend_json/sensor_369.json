@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-369",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 90.93352802153191,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 5.3e-05,
+  "RMS_Ratio": 0.68,
+  "Power_Ratio": 0.44
+}

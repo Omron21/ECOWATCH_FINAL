@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-574",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 84.65291683287214,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000196,
+  "RMS_Ratio": 2.9,
+  "Power_Ratio": 0.08
+}

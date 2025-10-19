@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-126",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "excavation",
+  "battery": 53.845048272856744,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 0.000164,
+  "RMS_Ratio": 1.13,
+  "Power_Ratio": 0.06
+}

@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-185",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 47.04027601679261,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000109,
+  "RMS_Ratio": 1.05,
+  "Power_Ratio": 0.18
+}

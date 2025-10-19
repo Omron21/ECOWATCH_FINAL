@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-318",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "excavation",
+  "battery": 48.80422773370864,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 6.8e-05,
+  "RMS_Ratio": 2.73,
+  "Power_Ratio": 0.14
+}

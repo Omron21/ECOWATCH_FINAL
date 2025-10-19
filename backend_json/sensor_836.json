@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-836",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 60.22517428293705,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000774,
+  "RMS_Ratio": 0.75,
+  "Power_Ratio": 0.39
+}

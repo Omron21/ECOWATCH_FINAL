@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-1245",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 53.39631512136028,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 3.6e-05,
+  "RMS_Ratio": 0.97,
+  "Power_Ratio": 0.22
+}

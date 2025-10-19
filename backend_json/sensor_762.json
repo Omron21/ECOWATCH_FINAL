@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-762",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 42.254373977815554,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 2.6e-05,
+  "RMS_Ratio": 0.73,
+  "Power_Ratio": 0.16
+}

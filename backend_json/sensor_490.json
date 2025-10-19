@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-490",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 98.94351586533381,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 1.9e-05,
+  "RMS_Ratio": 0.92,
+  "Power_Ratio": 0.31
+}

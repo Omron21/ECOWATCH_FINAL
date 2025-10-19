@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-683",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 45.316459462111595,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 4.5e-05,
+  "RMS_Ratio": 1.28,
+  "Power_Ratio": 0.1
+}

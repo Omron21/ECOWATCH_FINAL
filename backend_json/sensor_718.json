@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-718",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 76.84898228784672,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 7.9e-05,
+  "RMS_Ratio": 1.54,
+  "Power_Ratio": 0.09
+}

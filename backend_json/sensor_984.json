@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-984",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 64.21514344878332,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 7.8e-05,
+  "RMS_Ratio": 0.86,
+  "Power_Ratio": 0.15
+}

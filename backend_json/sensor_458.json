@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-458",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 57.83086289449781,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 3.1e-05,
+  "RMS_Ratio": 0.89,
+  "Power_Ratio": 0.19
+}

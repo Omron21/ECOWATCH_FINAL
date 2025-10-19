@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-232",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 59.78962971531678,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 6.3e-05,
+  "RMS_Ratio": 0.99,
+  "Power_Ratio": 0.3
+}

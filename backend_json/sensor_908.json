@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-908",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 87.28103828768715,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 7.9e-05,
+  "RMS_Ratio": 0.93,
+  "Power_Ratio": 0.11
+}

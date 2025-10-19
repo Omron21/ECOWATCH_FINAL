@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-240",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 84.3478033785841,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000339,
+  "RMS_Ratio": 0.28,
+  "Power_Ratio": 0.06
+}

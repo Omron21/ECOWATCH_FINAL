@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-529",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 93.89316056229174,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000182,
+  "RMS_Ratio": 1.0,
+  "Power_Ratio": 0.09
+}

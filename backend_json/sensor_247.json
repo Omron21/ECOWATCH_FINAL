@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-247",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "excavation",
+  "battery": 60.65224584314424,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 2.7e-05,
+  "RMS_Ratio": 1.19,
+  "Power_Ratio": 0.13
+}

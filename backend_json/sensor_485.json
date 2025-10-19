@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-485",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 63.80404789123625,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 2.5e-05,
+  "RMS_Ratio": 1.18,
+  "Power_Ratio": 0.23
+}

@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-1474",
+  "timestamp": "2025-10-19T20:55:01",
+  "activity": "idle",
+  "battery": 79.09361515278493,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000184,
+  "RMS_Ratio": 0.64,
+  "Power_Ratio": 0.31
+}

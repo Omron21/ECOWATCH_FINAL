@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-940",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 87.77291484791832,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 3.1e-05,
+  "RMS_Ratio": 0.69,
+  "Power_Ratio": 0.14
+}

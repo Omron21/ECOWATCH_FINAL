@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-779",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 95.9115566800254,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000225,
+  "RMS_Ratio": 1.0,
+  "Power_Ratio": 0.25
+}

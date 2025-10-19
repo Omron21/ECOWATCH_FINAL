@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-832",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 45.01922572401493,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 3.2e-05,
+  "RMS_Ratio": 0.94,
+  "Power_Ratio": 0.35
+}

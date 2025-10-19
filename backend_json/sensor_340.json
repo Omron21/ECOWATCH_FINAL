@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-340",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 97.68026889409643,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 3.5e-05,
+  "RMS_Ratio": 0.97,
+  "Power_Ratio": 0.12
+}

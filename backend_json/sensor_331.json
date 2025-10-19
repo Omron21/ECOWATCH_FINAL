@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-331",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 56.67167467361357,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 3.2e-05,
+  "RMS_Ratio": 1.32,
+  "Power_Ratio": 0.33
+}

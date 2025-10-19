@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-560",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 87.02674318575535,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 1.4e-05,
+  "RMS_Ratio": 0.93,
+  "Power_Ratio": 0.29
+}

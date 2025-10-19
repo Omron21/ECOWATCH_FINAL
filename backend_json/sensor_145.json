@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-145",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 81.96642202975636,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 4.5e-05,
+  "RMS_Ratio": 0.85,
+  "Power_Ratio": 0.13
+}

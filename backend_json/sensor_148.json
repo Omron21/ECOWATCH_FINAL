@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-148",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 60.0074706304773,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.002329,
+  "RMS_Ratio": 0.72,
+  "Power_Ratio": 1.04
+}

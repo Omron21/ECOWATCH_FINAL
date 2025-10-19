@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-400",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 59.60032320991959,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 4.4e-05,
+  "RMS_Ratio": 0.71,
+  "Power_Ratio": 0.11
+}

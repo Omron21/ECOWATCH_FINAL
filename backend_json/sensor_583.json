@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-583",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "excavation",
+  "battery": 86.63822262779073,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": true,
+  "Max_Amplitude": 1.9e-05,
+  "RMS_Ratio": 0.78,
+  "Power_Ratio": 0.25
+}

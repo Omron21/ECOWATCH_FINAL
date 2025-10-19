@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-407",
+  "timestamp": "2025-10-19T20:54:58",
+  "activity": "idle",
+  "battery": 71.62052851460864,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.001149,
+  "RMS_Ratio": 0.18,
+  "Power_Ratio": 0.12
+}

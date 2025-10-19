@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-1253",
+  "timestamp": "2025-10-19T20:55:01",
+  "activity": "idle",
+  "battery": 43.11208685165137,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000117,
+  "RMS_Ratio": 0.47,
+  "Power_Ratio": 0.2
+}

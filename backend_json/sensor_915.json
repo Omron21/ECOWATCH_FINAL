@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-915",
+  "timestamp": "2025-10-19T20:55:00",
+  "activity": "idle",
+  "battery": 48.41988242876265,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 4.3e-05,
+  "RMS_Ratio": 0.77,
+  "Power_Ratio": 0.13
+}

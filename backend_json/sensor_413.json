@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-413",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 46.494473162377936,
+  "signal_strength": "weak",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000395,
+  "RMS_Ratio": 2.11,
+  "Power_Ratio": 0.29
+}

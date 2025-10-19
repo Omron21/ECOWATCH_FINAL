@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-708",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 50.35283726827633,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 4.8e-05,
+  "RMS_Ratio": 0.85,
+  "Power_Ratio": 0.11
+}

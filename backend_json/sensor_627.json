@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-627",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 48.73819474226005,
+  "signal_strength": "moderate",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 0.000222,
+  "RMS_Ratio": 0.97,
+  "Power_Ratio": 0.21
+}

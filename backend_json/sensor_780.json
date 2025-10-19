@@ -1,0 +1,13 @@
+{
+  "sensor_id": "SNR-780",
+  "timestamp": "2025-10-19T20:54:59",
+  "activity": "idle",
+  "battery": 67.73148604630578,
+  "signal_strength": "strong",
+  "status": "active",
+  "isActive": true,
+  "isTriggered": false,
+  "Max_Amplitude": 2.7e-05,
+  "RMS_Ratio": 0.78,
+  "Power_Ratio": 0.3
+}
